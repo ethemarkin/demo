@@ -1,0 +1,5 @@
+# Envo project link, written by `envo init`. Safe to commit: contains no secrets.
+api_url: https://envo.sinopsis.io
+project: demo/demo
+project_id: 6ca39e58-e467-4e96-9db2-f7f838ae0341
+default_environment: development
